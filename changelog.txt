@@ -1,0 +1,15 @@
+= 1.5 =
+
+* Match up with pro license
+
+= 1.1.4 =
+
+* Critical update
+
+= 1.1 =
+
+* Sync up with pro release
+
+= 1.0 =
+
+* Initial Release
