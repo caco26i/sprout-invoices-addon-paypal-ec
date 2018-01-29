@@ -1,7 +1,7 @@
 {
   "name": "caco26i/sprout-invoices-addon-paypal-ec",
   "description": "Accept Paypal Express payments for your invoices. Including invoice deposits.",
-  "keywords": ["wordpress", "plugin", "SproutApps", "SproutInvoices", "ProjectPanorama"],
+  "keywords": ["wordpress", "plugin", "SproutApps", "SproutInvoices", "PayPal"],
   "homepage": "https://sproutapps.co/marketplace/paypal-payments-express-checkout/",
   "license": "MIT",
   "type": "wordpress-plugin",
